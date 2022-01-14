@@ -1,0 +1,47 @@
+.osoby{
+    background-color: rgb(151, 192, 133);
+  }
+  
+  .header{
+    text-align: center;
+    background-color: dimgray;
+    padding: 20px 0 18px 0;
+    margin: 0;
+  }
+  
+  .scooby{
+    background-color: lightcoral;
+  }
+  
+  body{
+    font-family:'Lato',sans-serif;
+  }
+  
+  img{
+    width: 100%;
+  }
+  
+  p{
+    text-align: center;
+  }
+  
+  section{
+    padding: 0 30% 18px 30%;
+  }
+  
+  a{
+    color: rgb(235, 28, 28);
+    background: darkgray;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
+  a:hover{
+    color: rgb(143, 143, 143);
+    background-color: dimgray;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    border-top: 2px solid rgb(172, 58, 224);
+    border-bottom: 2px solid rgb(219, 89, 176);
+  }
